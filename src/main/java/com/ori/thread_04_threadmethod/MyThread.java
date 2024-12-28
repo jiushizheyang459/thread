@@ -1,4 +1,4 @@
-package com.ori.threadmethod;
+package com.ori.thread_04_threadmethod;
 
 public class MyThread extends Thread {
     public MyThread() {

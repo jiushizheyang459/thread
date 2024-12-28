@@ -1,4 +1,4 @@
-package com.ori.thread;
+package com.ori.thread_01_thread;
 
 public class MyThread extends Thread {
     @Override

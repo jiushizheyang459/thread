@@ -1,4 +1,4 @@
-package com.ori.callable;
+package com.ori.thread_03_callable;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.FutureTask;

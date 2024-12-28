@@ -1,4 +1,4 @@
-package com.ori.runnable;
+package com.ori.thread_02_runnable;
 
 public class MyRun implements Runnable {
     @Override
