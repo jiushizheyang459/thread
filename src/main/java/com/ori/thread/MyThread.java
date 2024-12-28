@@ -1,4 +1,4 @@
-package com.ori.quickstart;
+package com.ori.thread;
 
 public class MyThread extends Thread {
     @Override

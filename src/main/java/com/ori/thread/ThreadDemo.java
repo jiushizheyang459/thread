@@ -1,4 +1,4 @@
-package com.ori.quickstart;
+package com.ori.thread;
 
 public class ThreadDemo {
     public static void main(String[] args) {
